@@ -18,7 +18,7 @@ ____
 
 - 🔺 ʜᴏᴡ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ 🔻.
 
-<p><a href="https://github.com/Z-vd4ed/Heroku-Xray"> <img src="https://telegra.ph/file/c0543481011362d508b70.jpg" /></a></p>
+<p><a href="https://github.com/Z-vd4ed/Heroku-Xray"> <img src="https://telegra.ph/file/" /></a></p>
 Click on fork and star buttons like this image☝️.
 
 ___
