@@ -73,7 +73,7 @@ ____
 
 -🏷️ කොහොමද මේ රෙපෝව fork කරගන්නෙ?🏷️-
 
-<p><a href="https://github.com/Z-vd4ed/Heroku-Xray"> <img src="https://telegra.ph/file/c0543481011362d508b70.jpg" /></a></p>
+<p><a href="https://github.com/Z-vd4ed/Heroku-Xray"> <img src="https://telegra.ph/file/ /></a></p>
 
 • මුලින්ම ඔබ අපගෙ රෙපෝවෙ ඇති star බටන් එක මත එක පාරක් ඔබන්න.
 
